@@ -1,5 +1,6 @@
-# venue-info-enrichment
+# venue-info-enrichment with LLMs
 Developed a Python pipeline using the OpenAI API to enrich and structure venue datasets. Automated CSV-to-JSON transformation with schema validation, including demographics, opening hours, and metadata. Showcased skills in data engineering, API integration, and pipeline automation for real-world applications.
+
 Venue Information Extraction with LLMs
 
 This project uses Large Language Models (LLMs) to enrich raw venue data with structured information such as categories, opening hours, demographics, and media links. It is designed for dating and social applications where accurate, contextual venue information is critical for recommendations and user experiences.
